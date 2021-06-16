@@ -20,6 +20,8 @@ Getting Started
 # clone it
 git clone https://github.com/Saul-NH/react-native-crypto-app.git
 
+cd react-native-crypto-app
+
 # Install Expo CLI
 npm install expo-cli --global
 
